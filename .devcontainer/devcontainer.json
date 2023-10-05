@@ -1,0 +1,28 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "extensions": [
+
+        "dbaeumer.vscode-eslint",
+
+        "esbenp.prettier-vscode",
+
+        "ritwickdey.LiveServer",
+
+        "blackgirlbytes.deploy-to-github-pages",
+
+        "GitHub.copilot",
+
+        "codespaces-contrib.codeswing",
+
+        "vsls-contrib.codetour",
+
+        "esbenp.prettier-vscode",
+
+        "VisualStudioExptTeam.vscodeintellicode",
+
+        "ecmel.vscode-html-css",
+
+        "formulahendry.auto-rename-tag"
+
+    ]
+}
